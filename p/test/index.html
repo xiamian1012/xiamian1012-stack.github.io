@@ -18,7 +18,16 @@
 <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/alasql/0.6.2/alasql.min.js"></script>
 <script src="https://cdn.bootcdn.net/ajax/libs/element-ui/2.15.7/index.min.js"></script>
- 
+ <div id="app">
+
+	<el-image id="image1" :src="url1" :fit="fits" :style="{ width: '100%', height: '924px',position: 'absolute'}">
+	</el-image>
+
+	<el-image id="image3" :src="url3" :fit="fits"></el-image>
+	<el-image id="image4" :src="url4" :fit="fits"></el-image>
+	<div id="chart1" :style="{ width: '1920px', height: '924px',scale:'(0.5,0.5)' }"></div>
+
+</div>
     <body class="
     article-page has-toc
 ">
