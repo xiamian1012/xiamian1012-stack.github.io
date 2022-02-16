@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://xiamian1012.gitHub.io/post/</loc>
+    <lastmod>2022-02-16T15:28:09+08:00</lastmod>
+  </url><url>
+    <loc>https://xiamian1012.gitHub.io/p/test/</loc>
+    <lastmod>2022-02-16T15:28:09+08:00</lastmod>
+  </url><url>
+    <loc>https://xiamian1012.gitHub.io/</loc>
+    <lastmod>2022-02-16T15:28:09+08:00</lastmod>
+  </url><url>
     <loc>https://xiamian1012.gitHub.io/categories/</loc>
   </url><url>
     <loc>https://xiamian1012.gitHub.io/tags/</loc>
-  </url><url>
-    <loc>https://xiamian1012.gitHub.io/</loc>
   </url>
 </urlset>
